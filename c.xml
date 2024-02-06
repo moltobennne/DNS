@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <image>
+            <url>https://www.google.com/url?sa=i&url=https%3A%2F%2Fkinsta.com%2Fes%2Fbase-de-conocimiento%2Fque-es-dns%2F&psig=AOvVaw0QpTBDFJ-wpnxLxNtOSsF7&ust=1707328030301000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjY5teil4QDFQAAAAAdAAAAABAE</url>
+            <title>My RSS Channel Logo</title>
+            <link>https://www.Articulos sobre DNS.com/</link>
+        </image>
+
+        <item>
+            <title>Articulos de enumeracion de DNS</title>
+            <link>https://Articulos de enumeracion de DNS/a.html</link>
+            <description>This article provides a comprehensive introduction to DNS enumeration...</description>
+            <pubDate>Fri, 05 Feb 2024 10:00:00 GMT</pubDate>
+        </item>
+
+        <item>
+            <title>DNS Enumeration Articles</title>
+            <link>https://DNS Enumeration Articles/b.html</link>
+            <description>This article provides a comprehensive introduction to DNS enumeration...</description>
+            <pubDate>Fri, 05 Feb 2024 10:00:00 GMT</pubDate>
+        </item>
+        <!-- Add more items for additional articles -->
+
+    </channel>
+</rss>
